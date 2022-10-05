@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on Chrome"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.969">
+  <properties />
+  
+  
+            <testcase name="User_01_Register" time="4.836" classname="com.nopcommerce.user.Level_20_Manage_Test_Data_By_Internal_File" />
+                <testcase name="User_03_My_Account" time="1.004" classname="com.nopcommerce.user.Level_20_Manage_Test_Data_By_Internal_File" />
+                <testcase name="User_02_Login" time="3.129" classname="com.nopcommerce.user.Level_20_Manage_Test_Data_By_Internal_File" />
+      
+</testsuite>
